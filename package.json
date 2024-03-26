@@ -9,7 +9,7 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "tsc": "tsc",
-    "stylelint": "stylelint **/*.css"
+    "stylelint": "stylelint **/*.css",
     "prettier": "prettier . --check"
   },
   "dependencies": {
